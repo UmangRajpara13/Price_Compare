@@ -29,17 +29,5 @@ Execute the project using Gradle. You can run it from the terminal or directly f
 
     gradle run
 
-Usage
-Enter Search Query:
-When prompted, enter the product name or search query you wish to compare prices for.
 
-Automated Browsing:
-The project will automatically open two browser windows, navigate to the specified e-commerce platforms, and search for the product.
-
-Price Retrieval:
-It will then retrieve and display the prices of the product from both platforms.
-
-Project Structure
-Java Source Code: Contains the Selenium test classes written in Java.
-
-Gradle Build Scripts: build.gradle.kts and settings.gradle.kts files manage project dependencies and configurations using Kotlin DSL.
+![Animated GIF](images/Peek 2025-02-24 17-04.gif)
